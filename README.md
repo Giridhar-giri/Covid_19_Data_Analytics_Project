@@ -34,3 +34,13 @@ Identified top medical units handling the highest volume of intubated patients (
 Evaluated patient mortality distribution (DEATH = 1) across medical severity degrees and gender profiles.
 
 Grouped patients into age cohorts (0–20, 21–40, 41–60, 60+) to evaluate relative mortality rates across different medical units.
+
+ ## Key Findings
+   - 9,999 patients; overall mortality 7.6%
+   - Mortality by age: 1.2% (0-20), 1.3% (21-40), 8.0% (41-60), 30.3% (60+)
+   - Men 10.2% vs women 5.1%
+   - Unit 4 handled 55% of all intubated patients (201 of 364)
+   - Risk category (comorbidity count): mortality 3.9% low, 10.7% medium, 20.6% high
+
+   ## Data Notes
+   - Values 97, 98 and 99 mean "not applicable / unknown" and are excluded from comorbidity counts.
